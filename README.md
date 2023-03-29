@@ -1,5 +1,5 @@
 # learnbritishenglish
-A python app that can help you learn British English(from American English).
+A python app that can help you learn British English (from American English).
 
 ## How to Use
 
