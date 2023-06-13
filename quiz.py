@@ -6,7 +6,7 @@ import random
 
 # Split british.txt into a list
 british = open(os.path.join(os.path.dirname(__file__),
-               ".txt"), "r").read().split("\n")
+               "definition.txt"), "r").read().split("\n")
 
 # Split american.txt into a list
 american = open(os.path.join(os.path.dirname(__file__),
