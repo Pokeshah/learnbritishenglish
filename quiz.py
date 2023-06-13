@@ -6,11 +6,11 @@ import random
 
 # Split british.txt into a list
 british = open(os.path.join(os.path.dirname(__file__),
-               "british.txt"), "r").read().split("\n")
+               ".txt"), "r").read().split("\n")
 
 # Split american.txt into a list
 american = open(os.path.join(os.path.dirname(__file__),
-                "american.txt"), "r").read().split("\n")
+                "answer.txt"), "r").read().split("\n")
 
 
 def generate():
